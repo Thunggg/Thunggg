@@ -18,7 +18,6 @@
 - Enjoy building modern UI/UX experiences, optimizing performance, and creating clean developer-friendly architectures.
 - Continuously learning DevOps, and scalable system practices to become a well-rounded software engineer.
 
-
 ## 🧠 My Focus Areas
 - Full-Stack Web Development
 - Backend Architecture & APIs
@@ -26,7 +25,6 @@
 - Blockchain & Web3 Applications
 - Scalable Product Development
 - DevOps & Deployment Workflows
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -42,67 +40,61 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Thunggg&theme=radical&radius=10" alt="Thunggg's Activity Graph" />
 </p>
 
-
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Proficiency
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
-
+  <img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-65%25-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/C++-50%25-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/PHP-40%25-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Go-30%25-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=20232A" />
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
+  <img src="https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-80%25-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-95%25-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-90%25-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind-75%25-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=20232A" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
-
+  <img src="https://img.shields.io/badge/Node.js-85%25-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Express-80%25-000000?style=flat-square&logo=express&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-65%25-E0234E?style=flat-square&logo=nestjs&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-60%25-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-50%25-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=20232A" />
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
+  <img src="https://img.shields.io/badge/MySQL-80%25-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-75%25-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-70%25-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Redis-60%25-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/SQLite-50%25-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=20232A" />
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
-
+  <img src="https://img.shields.io/badge/Docker-70%25-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-40%25-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Jenkins-30%25-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=20232A" />
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
+  <img src="https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-95%25-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-60%25-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-75%25-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Webpack-50%25-8DD6F9?style=flat-square&logo=webpack&logoColor=black&labelColor=20232A" />&nbsp;
+  <img src="https://img.shields.io/badge/Vite-55%25-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=20232A" />
 </p>
 
 <p align="center">
@@ -116,7 +108,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/nguyen-tien-thuan-17b4a1335">
+  <a href="https://www.linkedin.com/in/nguyen-tien-thuan-17b4a1335">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:thuannguyen20041028@gmail.com">
@@ -131,4 +123,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
