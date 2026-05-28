@@ -10,6 +10,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enV4YTNwcDE2NGRvbG90ZjRkZzhkZTIzMGw2dTl1c29yMTFhYTdrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1448TKNMMg4BFu/giphy.gif" 
+       alt="Coding Cat" 
+       width="300" />
+</p>
+
 ## 📌 About Me
 - Software Engineering student passionate about building scalable web applications and startup-oriented products.
 - Full-Stack Developer with strong interest in modern frontend architecture and backend system design.
