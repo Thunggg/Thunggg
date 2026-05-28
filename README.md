@@ -6,6 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
 ## 📌 About Me
 - Software Engineering student passionate about building scalable web applications and startup-oriented products.
 - Full-Stack Developer with strong interest in modern frontend architecture and backend system design.
